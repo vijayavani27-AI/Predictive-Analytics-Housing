@@ -1,0 +1,13 @@
+Predictive Analytics using Housing Data
+
+Objective:
+To predict house prices using Linear Regression.
+
+Tools Used:
+Python, Pandas, Scikit-learn, Matplotlib
+
+Method:
+Linear Regression model trained on housing dataset.
+
+Result:
+Model predicts house prices based on area feature.
